@@ -1,1 +1,1 @@
-# iFastLoc
+# Fast Visual Place Recognition Approach
